@@ -1,5 +1,5 @@
 {
-  "version": "1.3.0",
-  "notes": "Przycisk Zglos problem dla wszystkich + kolejka ponownych prob dla zgloszen awarii",
-  "downloadUrl": "https://github.com/micgra1990-bot/KPB-Aktualizacje/releases/download/v1.3.0/KPB-Instalator-1.3.0.exe"
+  "version": "1.4.0",
+  "notes": "Automatyczna aktualizacja jednym kliknieciem",
+  "downloadUrl": "https://github.com/micgra1990-bot/KPB-Aktualizacje/releases/download/v1.4.0/KPB-Instalator-1.4.0.exe"
 }
