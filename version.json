@@ -1,5 +1,5 @@
 {
-  "version": "1.4.2",
-  "notes": "Checkbox \"Zaznacz wszystkich dostepnych\" w Nowym rozkazie dziennym. Motyw domyslnie automatyczny, cieplejszy jasny, ekran logowania tez go stosuje. Nowa kolejnosc kafelkow. Poprawki bezpieczenstwa licencji i drobne naprawy bledow.",
-  "downloadUrl": "https://github.com/micgra1990-bot/KPB-Aktualizacje/releases/download/v1.4.2/KPB-Instalator-1.4.2.exe"
+  "version": "1.4.3",
+  "notes": "Data sluzby zablokowana dla nie-admina w Nowym rozkazie. Dowodca zastepu przejmuje funkcje dowodcy zmiany, gdy brak etatowego. Naprawiony kolor pola daty w trybie ciemnym/zablokowanym. Glowne okno otwiera sie poprawnie na caly ekran na kazdym komputerze.",
+  "downloadUrl": "https://github.com/micgra1990-bot/KPB-Aktualizacje/releases/download/v1.4.3/KPB-Instalator-1.4.3.exe"
 }
