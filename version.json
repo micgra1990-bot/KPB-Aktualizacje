@@ -1,5 +1,5 @@
 {
-  "version": "1.4.1",
-  "notes": "Ekran glowny: kafelki pogrupowane w sekcje, animacja hover. Losowanie obsady: przegrany dowodca spada na kierowce/ratownika zamiast znikac z rozkazu.",
-  "downloadUrl": "https://github.com/micgra1990-bot/KPB-Aktualizacje/releases/download/v1.4.1/KPB-Instalator-1.4.1.exe"
+  "version": "1.4.2",
+  "notes": "Checkbox \"Zaznacz wszystkich dostepnych\" w Nowym rozkazie dziennym. Motyw domyslnie automatyczny, cieplejszy jasny, ekran logowania tez go stosuje. Nowa kolejnosc kafelkow. Poprawki bezpieczenstwa licencji i drobne naprawy bledow.",
+  "downloadUrl": "https://github.com/micgra1990-bot/KPB-Aktualizacje/releases/download/v1.4.2/KPB-Instalator-1.4.2.exe"
 }
