@@ -1,5 +1,5 @@
 {
-  "version": "1.5.0",
-  "notes": "Nowa aktywacja licencji przyciskiem Przeslij do administratora - wysyla prosbe wprost z appki i sam odbiera odpowiedz, bez maila. Dodatkowe zabezpieczenie licencji przed cofnieciem zegara systemowego komputera.",
-  "downloadUrl": "https://github.com/micgra1990-bot/KPB-Aktualizacje/releases/download/v1.5.0/KPB-Instalator-1.5.0.exe"
+  "version": "1.6.0",
+  "notes": "Nowy przycisk Ustawienia w naglowku (haslo, motyw, kalendarz zmianowy, reczne sprawdzanie aktualizacji, dzwieki, autostart z Windowsem, diagnostyka). Kafelki na ekranie glownym wypelniaja teraz cala szerokosc okna. Powiadomienie Windows o zblizajacym sie koncu licencji.",
+  "downloadUrl": "https://github.com/micgra1990-bot/KPB-Aktualizacje/releases/download/v1.6.0/KPB-Instalator-1.6.0.exe"
 }
