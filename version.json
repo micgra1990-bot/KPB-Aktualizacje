@@ -1,5 +1,5 @@
 {
-  "version": "1.6.0",
-  "notes": "Nowy przycisk Ustawienia w naglowku (haslo, motyw, kalendarz zmianowy, reczne sprawdzanie aktualizacji, dzwieki, autostart z Windowsem, diagnostyka). Kafelki na ekranie glownym wypelniaja teraz cala szerokosc okna. Powiadomienie Windows o zblizajacym sie koncu licencji.",
-  "downloadUrl": "https://github.com/micgra1990-bot/KPB-Aktualizacje/releases/download/v1.6.0/KPB-Instalator-1.6.0.exe"
+  "version": "1.7.0",
+  "notes": "Ogloszenia parafialne (przekazanie zmiany z historia i wymuszonym potwierdzeniem), konto D-cy Jednostki (podglad bez edycji), dzwieki powiadomien osobno dla kazdego uzytkownika, obserwator w tle powiadamiajacy nawet przy zamknietej appce, cisza nocna 20:00-08:00 dla powiadomien, automatyczna obsada przy czasowym wycofaniu GBA/GCBA(1)/SCD, szukajka w Bazie strazakow.",
+  "downloadUrl": "https://github.com/micgra1990-bot/KPB-Aktualizacje/releases/download/v1.7.0/KPB-Instalator-1.7.0.exe"
 }
