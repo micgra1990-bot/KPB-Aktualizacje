@@ -1,5 +1,5 @@
 {
-  "version": "1.7.0",
-  "notes": "Ogloszenia parafialne (przekazanie zmiany z historia i wymuszonym potwierdzeniem), konto D-cy Jednostki (podglad bez edycji), dzwieki powiadomien osobno dla kazdego uzytkownika, obserwator w tle powiadamiajacy nawet przy zamknietej appce, cisza nocna 20:00-08:00 dla powiadomien, automatyczna obsada przy czasowym wycofaniu GBA/GCBA(1)/SCD, szukajka w Bazie strazakow.",
-  "downloadUrl": "https://github.com/micgra1990-bot/KPB-Aktualizacje/releases/download/v1.7.0/KPB-Instalator-1.7.0.exe"
+  "version": "1.7.2",
+  "notes": "Nowa zakladka \"Prace miesieczne\" (dodatkowe prace przypiete do konkretnego dnia miesiaca), nowe \"Inne pojazdy\" w Przegladach (np. samochody osobowe, poza podzialem bojowym), Statystyki rotacji z osobna zakladka Biuro, import zdjec z obsluga PDF i automatycznym odczytem (appka sama prostuje zdjecia zrobione telefonem), \"Zajecia Sportowe\" (dawniej WF) domyslnie zaznaczone, drobne poprawki (filtry w Bazie strazakow, ogloszenia parafialne, podwojne uruchomienie appki, samo-naprawa obserwatora w tle).",
+  "downloadUrl": "https://github.com/micgra1990-bot/KPB-Aktualizacje/releases/download/v1.7.2/KPB-Instalator-1.7.2.exe"
 }
