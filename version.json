@@ -1,5 +1,5 @@
 {
-  "version": "1.7.2",
-  "notes": "Nowa zakladka \"Prace miesieczne\" (dodatkowe prace przypiete do konkretnego dnia miesiaca), nowe \"Inne pojazdy\" w Przegladach (np. samochody osobowe, poza podzialem bojowym), Statystyki rotacji z osobna zakladka Biuro, import zdjec z obsluga PDF i automatycznym odczytem (appka sama prostuje zdjecia zrobione telefonem), \"Zajecia Sportowe\" (dawniej WF) domyslnie zaznaczone, drobne poprawki (filtry w Bazie strazakow, ogloszenia parafialne, podwojne uruchomienie appki, samo-naprawa obserwatora w tle).",
-  "downloadUrl": "https://github.com/micgra1990-bot/KPB-Aktualizacje/releases/download/v1.7.2/KPB-Instalator-1.7.2.exe"
+  "version": "1.8.0",
+  "notes": "Imienne logowanie dowódców, wymuszone wylogowanie o zmianie służby, blokada ekranu, Ogłoszenia parafialne z wyborem konkretnej osoby, dwukierunkowe wiadomości z D-cą Jednostki (osobna appka, działa w tle), ostrzeżenia przed losowaniem obsady, sporo poprawek stabilności.",
+  "downloadUrl": "https://github.com/micgra1990-bot/KPB-Aktualizacje/releases/download/v1.8.0/KPB-Instalator-1.8.0.exe"
 }
