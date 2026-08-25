@@ -1,5 +1,5 @@
 {
-  "version": "1.8.0",
-  "notes": "Imienne logowanie dowódców, wymuszone wylogowanie o zmianie służby, blokada ekranu, Ogłoszenia parafialne z wyborem konkretnej osoby, dwukierunkowe wiadomości z D-cą Jednostki (osobna appka, działa w tle), ostrzeżenia przed losowaniem obsady, sporo poprawek stabilności.",
-  "downloadUrl": "https://github.com/micgra1990-bot/KPB-Aktualizacje/releases/download/v1.8.0/KPB-Instalator-1.8.0.exe"
+  "version": "1.9.0",
+  "notes": "Zalaczniki w wiadomosciach, wlasne dzwieki, poprawka blokady ekranu, rotacja kierowcow, naprawa ciemnego motywu",
+  "downloadUrl": "https://github.com/micgra1990-bot/KPB-Aktualizacje/releases/download/v1.9.0/KPB-Instalator-1.9.0.exe"
 }
