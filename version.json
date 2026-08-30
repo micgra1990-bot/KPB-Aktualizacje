@@ -1,5 +1,5 @@
 {
-  "version": "1.9.19",
-  "notes": "Naprawa importu harmonogramu (dyzury domowe + oficer dyzurny) - dwie kolejne realne przyczyny znalezione i naprawione na prawdziwych danych",
-  "downloadUrl": "https://github.com/micgra1990-bot/KPB-Aktualizacje/releases/download/v1.9.19/KPB-Instalator-1.9.19.exe"
+  "version": "1.9.20",
+  "notes": "Statystyki rotacji: auto-szerokosc kolumn, usuniete kolumny inne. Nowosc: import planu doskonalenia zawodowego (podpowiedz tematu w rozkazie 4.1) + wspolna baza na caly rok",
+  "downloadUrl": "https://github.com/micgra1990-bot/KPB-Aktualizacje/releases/download/v1.9.20/KPB-Instalator-1.9.20.exe"
 }
