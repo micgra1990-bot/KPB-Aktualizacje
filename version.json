@@ -1,5 +1,5 @@
 {
-  "version": "1.9.18",
-  "notes": "Kafelek Raporty: pozostale typy (urlop szkoleniowy, opieka nad dzieckiem, zamiana w sluzbie, doplata do wypoczynku, zapotrzebowanie) + naprawa importu PDF harmonogramu (przycisk Obroc podglad)",
-  "downloadUrl": "https://github.com/micgra1990-bot/KPB-Aktualizacje/releases/download/v1.9.18/KPB-Instalator-1.9.18.exe"
+  "version": "1.9.19",
+  "notes": "Naprawa importu harmonogramu (dyzury domowe + oficer dyzurny) - dwie kolejne realne przyczyny znalezione i naprawione na prawdziwych danych",
+  "downloadUrl": "https://github.com/micgra1990-bot/KPB-Aktualizacje/releases/download/v1.9.19/KPB-Instalator-1.9.19.exe"
 }
