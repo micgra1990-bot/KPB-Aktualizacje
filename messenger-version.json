@@ -1,5 +1,5 @@
 {
-  "version": "1.4.7",
-  "notes": "Komunikator dociaga teraz swieza liste dowodcow tuz przed kazda wysylka, zamiast polegac na liscie sprzed 5 minut - naprawia sytuacje gdy dowodca dostal nowy numer identyfikacyjny po drugiej stronie.",
-  "downloadUrl": "https://github.com/micgra1990-bot/KPB-Aktualizacje/releases/download/messenger-v1.4.7/KPB-Wiadomosci-Instalator-1.4.7.exe"
+  "version": "1.4.8",
+  "notes": "Wydanie 1.4.8",
+  "downloadUrl": "https://github.com/micgra1990-bot/KPB-Aktualizacje/releases/download/messenger-v1.4.8/KPB-Wiadomosci-Instalator-1.4.8.exe"
 }
