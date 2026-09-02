@@ -1,5 +1,5 @@
 {
-  "version": "1.9.21",
-  "notes": "Naprawa rozjezdzajacych sie tozsamosci imiennych dowodcow - rozmowy z D-ca Jednostki 'milkly' bo ta sama osoba dostawala rozny numer wewnetrzny na roznych komputerach. Teraz numer wyliczany z imienia+nazwiska, zawsze taki sam.",
-  "downloadUrl": "https://github.com/micgra1990-bot/KPB-Aktualizacje/releases/download/v1.9.21/KPB-Instalator-1.9.21.exe"
+  "version": "1.9.22",
+  "notes": "Wydanie 1.9.22",
+  "downloadUrl": "https://github.com/micgra1990-bot/KPB-Aktualizacje/releases/download/v1.9.22/KPB-Instalator-1.9.22.exe"
 }
