@@ -1,5 +1,5 @@
 {
-  "version": "1.9.75",
-  "notes": "Wydanie 1.9.75",
-  "downloadUrl": "https://github.com/micgra1990-bot/KPB-Aktualizacje/releases/download/v1.9.75/KPB-Instalator-1.9.75.exe"
+  "version": "1.9.76",
+  "notes": "Zmiana druku Zapotrzebowania wg nowego wzoru, usuniety kafelek Funkcja z zaswiadczenia o zarobkach, nowe pola w Zgodzie na dodatkowe zatrudnienie, przeciaganie plikow (drag&drop) w Cwiczeniach obiektowych i Ogloszeniach parafialnych.",
+  "downloadUrl": "https://github.com/micgra1990-bot/KPB-Aktualizacje/releases/download/v1.9.76/KPB-Instalator-1.9.76.exe"
 }
