@@ -1,5 +1,5 @@
 {
-  "version": "1.9.77",
-  "notes": "Lista Typ raportu poukladana w logiczne grupy z naglowkami (Urlopy i wolne od sluzby / Wymiana sprzetu / Sprawy kadrowe - sluzbowe / Zaopatrzenie jednostki / Inne).",
-  "downloadUrl": "https://github.com/micgra1990-bot/KPB-Aktualizacje/releases/download/v1.9.77/KPB-Instalator-1.9.77.exe"
+  "version": "1.9.79",
+  "notes": "Archiwum rozkazow: hurtowy wydruk zaznaczonych rozkazow. Urlopy: wybor zakresu dni myszka w kalendarzyku. Ekran glowny: zwijany pasek powiadomien. Statystyki rotacji: mapa cieplna. Baza strazakow: karta wybranej osoby.",
+  "downloadUrl": "https://github.com/micgra1990-bot/KPB-Aktualizacje/releases/download/v1.9.79/KPB-Instalator-1.9.79.exe"
 }
