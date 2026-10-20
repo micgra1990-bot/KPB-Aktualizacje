@@ -1,5 +1,5 @@
 {
-  "version": "1.9.87",
-  "notes": "Wydanie 1.9.87",
-  "downloadUrl": "https://github.com/micgra1990-bot/KPB-Aktualizacje/releases/download/v1.9.87/KPB-Instalator-1.9.87.exe"
+  "version": "1.9.88",
+  "notes": "Czas Służby: licznik \"Na służbie\" (norma 9) w kafelku i na liście obecności, równe kolumny i dopasowany nagłówek listy obecności, poprawki po przeglądzie kafelka (eksport tylko klikniętych dni, podwójne kliknięcia, zajęty/zamknięty Excel).",
+  "downloadUrl": "https://github.com/micgra1990-bot/KPB-Aktualizacje/releases/download/v1.9.88/KPB-Instalator-1.9.88.exe"
 }
