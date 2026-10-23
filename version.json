@@ -1,5 +1,5 @@
 {
-  "version": "1.9.88",
-  "notes": "Czas Służby: licznik \"Na służbie\" (norma 9) w kafelku i na liście obecności, równe kolumny i dopasowany nagłówek listy obecności, poprawki po przeglądzie kafelka (eksport tylko klikniętych dni, podwójne kliknięcia, zajęty/zamknięty Excel).",
-  "downloadUrl": "https://github.com/micgra1990-bot/KPB-Aktualizacje/releases/download/v1.9.88/KPB-Instalator-1.9.88.exe"
+  "version": "1.9.89",
+  "notes": "Moja służba: podgląd służby na telefonie (kody, przełączniki administratora, domyślnie wyłączone). Poprawka opisu GBA na wydruku, podgląd PDF w programie do PDF.",
+  "downloadUrl": "https://github.com/micgra1990-bot/KPB-Aktualizacje/releases/download/v1.9.89/KPB-Instalator-1.9.89.exe"
 }
