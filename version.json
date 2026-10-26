@@ -1,5 +1,5 @@
 {
-  "version": "1.9.91",
-  "notes": "Nowy układ kafelków: tryb uproszczony/rozszerzony, przeciąganie kafelków, plakietki importu obsad zmian, baner aktualizacji znów widoczny od razu.",
-  "downloadUrl": "https://github.com/micgra1990-bot/KPB-Aktualizacje/releases/download/v1.9.91/KPB-Instalator-1.9.91.exe"
+  "version": "1.9.92",
+  "notes": "Poprawki błędów (bezpieczny zapis rozkazu, start bez zawieszania, kopia przed importem), osobne Zapisz/Drukuj w Archiwum, dowódca zmiany zgodny z GBA, nowa prostsza instrukcja.",
+  "downloadUrl": "https://github.com/micgra1990-bot/KPB-Aktualizacje/releases/download/v1.9.92/KPB-Instalator-1.9.92.exe"
 }
