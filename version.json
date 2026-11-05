@@ -1,5 +1,5 @@
 {
-  "version": "1.9.106",
-  "notes": "Ustawienia, Administracja: pole na nowy kod i przycisk Przedłuż licencję, czyli przedłużenie bez czekania na koniec licencji",
-  "downloadUrl": "https://github.com/micgra1990-bot/KPB-Aktualizacje/releases/download/v1.9.106/KPB-Instalator-1.9.106.exe"
+  "version": "1.9.107",
+  "notes": "Porzadki w oknach: dwie kolumny pojazdow w rozkazie, zwijane puste sekcje, krotsze nazwy importow, mniej zakladek w Ustawieniach, jeden kafelek Administracja.",
+  "downloadUrl": "https://github.com/micgra1990-bot/KPB-Aktualizacje/releases/download/v1.9.107/KPB-Instalator-1.9.107.exe"
 }
