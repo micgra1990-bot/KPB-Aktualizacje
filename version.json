@@ -1,5 +1,5 @@
 {
-  "version": "1.9.107",
-  "notes": "Porzadki w oknach: dwie kolumny pojazdow w rozkazie, zwijane puste sekcje, krotsze nazwy importow, mniej zakladek w Ustawieniach, jeden kafelek Administracja.",
-  "downloadUrl": "https://github.com/micgra1990-bot/KPB-Aktualizacje/releases/download/v1.9.107/KPB-Instalator-1.9.107.exe"
+  "version": "1.9.108",
+  "notes": "Rozkaz i Archiwum: przy nazwie pojazdu jest numer operacyjny, np. GBA · 381F21, GCBA · 381F25",
+  "downloadUrl": "https://github.com/micgra1990-bot/KPB-Aktualizacje/releases/download/v1.9.108/KPB-Instalator-1.9.108.exe"
 }
