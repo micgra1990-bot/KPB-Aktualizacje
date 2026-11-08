@@ -1,5 +1,5 @@
 {
-  "version": "1.9.116",
-  "notes": "Rozkaz: naprawiony błąd 'An item with the same key' przy podwójnych nieobecnościach; punkt 7 bez powtórzonych linii",
-  "downloadUrl": "https://github.com/micgra1990-bot/KPB-Aktualizacje/releases/download/v1.9.116/KPB-Instalator-1.9.116.exe"
+  "version": "1.9.117",
+  "notes": "Lista obecności zawsze zastępuje poprzednią (ręczne wpisy zostają); okienko Nakładające się nieobecności; podwójne wpisy usuwane same",
+  "downloadUrl": "https://github.com/micgra1990-bot/KPB-Aktualizacje/releases/download/v1.9.117/KPB-Instalator-1.9.117.exe"
 }
