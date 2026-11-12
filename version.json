@@ -1,5 +1,5 @@
 {
-  "version": "1.9.119",
-  "notes": "Grafik dyżurów domowych, kontrola importu grafiku z kalendarzem, powód nieobecności w nowym rozkazie, obsada ręczna (plan awaryjny), poprawki Czasu Służby i raportu urlopowego, komunikaty błędów po polsku",
-  "downloadUrl": "https://github.com/micgra1990-bot/KPB-Aktualizacje/releases/download/v1.9.119/KPB-Instalator-1.9.119.exe"
+  "version": "1.9.121",
+  "notes": "Czas Służby: przeciąganie wpisu po komórkach; zmiana miesiąca bez zamykania Excela. Lista obecności: szare dni służby wg kafelka.",
+  "downloadUrl": "https://github.com/micgra1990-bot/KPB-Aktualizacje/releases/download/v1.9.121/KPB-Instalator-1.9.121.exe"
 }
