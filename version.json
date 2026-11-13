@@ -1,5 +1,5 @@
 {
-  "version": "1.9.121",
-  "notes": "Czas Służby: przeciąganie wpisu po komórkach; zmiana miesiąca bez zamykania Excela. Lista obecności: szare dni służby wg kafelka.",
-  "downloadUrl": "https://github.com/micgra1990-bot/KPB-Aktualizacje/releases/download/v1.9.121/KPB-Instalator-1.9.121.exe"
+  "version": "1.9.123",
+  "notes": "Czas Służby: „Zapisz Excela” sam najpierw eksportuje zmiany z kafelka; przy zmianie miesiąca przycisk „Eksportuj i przejdź”; komunikaty mówią wprost, co kliknąć dalej.",
+  "downloadUrl": "https://github.com/micgra1990-bot/KPB-Aktualizacje/releases/download/v1.9.123/KPB-Instalator-1.9.123.exe"
 }
